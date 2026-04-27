@@ -1,7 +1,6 @@
-- Hi, I’m @palamim
-- I’m interested in technology, business and music
-- I’m currently bulding smart business operating systems
-- Reach me: https://www.linkedin.com/in/leonardo-palamim-cardozo/
+- I'm currently a research-builder in AI engineering.
+- Documenting what I see, study, build, and refine.
+- Updated weekly.
 
 <!---
 palamim/palamim is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
