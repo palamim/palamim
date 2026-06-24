@@ -6,7 +6,7 @@ Independent builder in AI engineering. I build tools for the agent era and docum
 - [Magent](https://magentweb.netlify.app/): an agentic coding tool with a direction layer. Building isn't the bottleneck anymore; direction is.
 - [Agent Patterns](https://agentpatterns.netlify.app/): a deep dive into the concepts and patterns of AI engineering.
 
-Find me: [blog](https://palamim.com) • [X](https://x.com/leopalamim) • leopalamim#gmail.com
+Find me: [blog](https://palamim.com) • [X](https://x.com/leopalamim) • leopalamim@gmail.com
 
 <!---
 palamim/palamim is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
