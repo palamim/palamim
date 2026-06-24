@@ -1,10 +1,12 @@
 ## Hi, I'm Leo (Palamim)
 
-Currently exploring agents, evaluation, and inference in AI engineering. 6 years in software engineering, previously at early-stage startups. Now working on AI engineering. Documenting what I see, study, build, and refine.
+Independent builder in AI engineering. I build tools for the agent era and document the work.
 
-### Find me:
-- My [blog](https://palamim.com)
-- [LIn](https://www.linkedin.com/in/leonardo-palamim-cardozo/)
+### Currently building:
+- [Magent](https://magentweb.netlify.app/): an agentic coding tool with a direction layer. Building isn't the bottleneck anymore; direction is.
+- [Agent Patterns](https://agentpatterns.netlify.app/): a deep dive into the concepts and patterns of AI engineering.
+
+Find me: [blog](https://palamim.com) • [X](https://x.com/leopalamim) • leopalamim#gmail.com
 
 <!---
 palamim/palamim is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
