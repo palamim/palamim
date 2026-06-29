@@ -3,8 +3,8 @@
 Independent builder in AI engineering. I build tools for the agent era and document the work.
 
 ### Currently building:
-- [Magent](https://magentweb.netlify.app/): an agentic coding tool with a direction layer. Building isn't the bottleneck anymore; direction is.
-- [Agent Patterns](https://agentpatterns.netlify.app/): a deep dive into the concepts and patterns of AI engineering.
+- [Magent](https://www.getmagent.com/): an agentic coding tool with a direction layer. Building isn't the bottleneck anymore; direction is.
+- [Agent Patterns](https://getagentpatterns.com/): a deep dive into the concepts and patterns of AI engineering.
 
 Find me: [blog](https://palamim.com) • [X](https://x.com/leopalamim) • leopalamim@gmail.com
 
